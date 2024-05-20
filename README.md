@@ -23,8 +23,8 @@ A Bukkit server implementation (such as [Paper](https://papermc.io)) and the [Wo
 Compiling
 ---------
 
-The project is written for Java 17 and our build process makes use of
-[Gradle](http://gradle.org).
+The project is written for Java 21 and our build process makes use of
+[Gradle](https://gradle.org).
 
 Dependencies are automatically handled by Gradle.
 
@@ -43,5 +43,5 @@ Links
 * [Homepage](https://enginehub.org/worldguard)
 * [Discord](https://discord.gg/enginehub)
 * [Issue tracker](https://github.com/EngineHub/WorldGuard/issues)
-* [Continuous integration](https://builds.enginehub.org) [![Build Status](https://ci.enginehub.org/app/rest/builds/buildType:bt11,branch:master/statusIcon.svg)](http://ci.enginehub.org/viewType.html?buildTypeId=bt11&guest=1)
+* [Continuous integration](https://builds.enginehub.org) [![Build Status](https://ci.enginehub.org/app/rest/builds/buildType:bt11,branch:master/statusIcon.svg)](https://ci.enginehub.org/viewType.html?buildTypeId=bt11&guest=1)
 * [End-user documentation](https://worldguard.enginehub.org/en/latest/)

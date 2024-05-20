@@ -80,7 +80,7 @@ public class WorldGuardCommands {
     @Command(aliases = {"version"}, desc = "Get the WorldGuard version", max = 0)
     public void version(CommandContext args, Actor sender) throws CommandException {
         sender.print("WorldGuard " + WorldGuard.getVersion());
-        sender.print("http://www.enginehub.org");
+        sender.print("https://www.enginehub.org");
 
         sender.printDebug("----------- Platforms -----------");
         sender.printDebug(String.format("* %s (%s)", worldGuard.getPlatform().getPlatformName(), worldGuard.getPlatform().getPlatformVersion()));

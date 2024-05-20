@@ -35,5 +35,5 @@ If you want to use WorldGuard, use the `-dist` version.
 
 ## Other commands
 
-* `gradlew idea` will generate an [IntelliJ IDEA](http://www.jetbrains.com/idea/) module for each folder.
+* `gradlew idea` will generate an [IntelliJ IDEA](https://www.jetbrains.com/idea/) module for each folder.
 * `gradlew eclipse` will generate an [Eclipse](https://www.eclipse.org/downloads/) project for each folder.
